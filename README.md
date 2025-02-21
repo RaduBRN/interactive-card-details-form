@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/responsive-interactive-card-details-form-using-react-cajiPR2b5A)
+- Live Site URL: [Netlify](https://inquisitive-kashata-784657.netlify.app/)
 
 ### Built with
 
